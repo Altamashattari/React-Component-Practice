@@ -1,0 +1,13 @@
+.container {
+    padding: 10px;
+    border: 0.5px solid rgb(173, 171, 171);
+    width: 80%;
+}
+
+.button {
+    padding-right: 0.5rem;
+}
+
+.content {
+    margin: 20px;
+}
